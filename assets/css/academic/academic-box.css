@@ -1,0 +1,14 @@
+.hobbies {
+    width: 100%;
+  }
+  
+  .hobbies__line {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .hobbies__img img {
+    width: 2rem;
+    height: 2rem;
+  }
+  

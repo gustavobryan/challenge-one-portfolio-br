@@ -1,25 +1,27 @@
-section.menu {
-    align-items: center;
-    background-color: var(--cor-de-destaque);
-    color: white;
-    display: flex;
-    height: 80px;
-    justify-content: space-around;
-    justify-items: center;
-    position: fixed;
-    z-index: 1;
-    width: 100%;
-  
-  }
-  header {
-    display: flex;
-    font-size: 1.5rem;
-  }
-  /*Sessão Title*/
-  .menu__img {
-    display: flex;
-    width: 18px;
-    height: 18px;
-  }
-  
-  
+.menu {
+  align-items: center;
+  background-color: var(--cor-de-destaque);
+  box-sizing: border-box;
+  box-shadow: 1px solid black;
+  color: white;
+  display: flex;
+  height: 80px;
+  justify-content: space-around;
+  justify-items: center;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+
+}
+
+header {
+  display: flex;
+  font-size: 1.5rem;
+}
+
+/*Sessão Title*/
+.menu__img {
+  display: flex;
+  width: 18px;
+  height: 18px;
+}

@@ -1,0 +1,21 @@
+.hobbies {
+    width: 100%;
+  }
+
+  .hobbies__title {
+    color: var(--cor-de-destaque);
+    font-size: 2.3rem;
+    font-weight: bold;
+    margin: 2rem 0;
+    text-align: center;
+}
+
+  .hobbies__line {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .hobbies__img img {
+    width: 2rem;
+    height: 2rem;
+  }

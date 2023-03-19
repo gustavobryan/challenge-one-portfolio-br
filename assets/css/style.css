@@ -44,8 +44,15 @@ https://en.bem.info/methodology/quick-start/*/
 /*Sessão Menu*/
 
 
+main {
+height: calc(100% - 100px);
+justify-content: center;
+padding: 2rem ;
+position: absolute;
+width: calc(100% -2rem);
+}
 
-section.title {
+/*section.title {
   display: flex;
   height: 100%;
   justify-items: space-around;
@@ -111,11 +118,7 @@ section.title {
 main {
   height: calc(100% -z-index);
 }
-.about {
-  padding: 10%;
-  width: 80%;
 
-}
 
 .about__container {
 text-align: center;  
