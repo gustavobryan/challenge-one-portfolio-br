@@ -1,0 +1,20 @@
+.menu__list {
+    display: flex;
+    margin-left: 1rem;
+  }
+  
+  .menu__list__item {
+    margin-left: 1rem;
+  }
+  
+  .menu__list__item a {
+    color: white;
+    cursor: pointer;
+    font-weight: 400;
+  }
+  
+  .menu__list__item a:hover {
+    color: #3764c0;
+    text-decoration: underline;
+    font-weight: bold;
+  }
