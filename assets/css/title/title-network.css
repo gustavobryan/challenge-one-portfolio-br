@@ -1,0 +1,14 @@
+.title__network {
+    display: flex;
+    font-size: 1.3rem;
+    justify-content: center;
+}
+
+.title__network a:hover {
+    color: #3764c0;
+}
+
+.title__network__item {
+    align-items: center;
+    margin-left: 1.3rem;
+}
