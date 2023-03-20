@@ -1,14 +1,18 @@
-.hobbies {
-    width: 100%;
-  }
-  
-  .hobbies__line {
-    display: flex;
-    justify-content: space-around;
-  }
-  
-  .hobbies__img img {
-    width: 2rem;
-    height: 2rem;
-  }
-  
+.academic__courses {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 2rem;
+  width: calc(100% -2rem);
+}
+
+.academic__courses__box {
+  color: var(--cor-de-destaque);
+  cursor: pointer;
+  justify-content: center;
+  text-align: center;
+}
+
+.academic__courses__item__img img {
+  height: 8rem;
+  width: 8rem;
+}

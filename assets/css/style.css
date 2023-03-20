@@ -141,7 +141,7 @@ width: 100%;
 
 /*Sessão Hobbies*/
 
-.hobbies {
+/*.hobbies {
   width: 100%;
 }
 
@@ -157,12 +157,12 @@ width: 100%;
 
 /* Experiência Acadêmica*/
 
-section.academic {
+/*section.academic {
 }
 
 /* experiência*/
 
-section.experience {
+/*section.experience {
   width: 100%;
 }
 
@@ -173,12 +173,12 @@ section.experience {
 
 /*Contato*/
 
-section.formcontato {
+/*section.formcontato {
 }
 
 /*footeer*/
 
-section.footer {
+/*section.footer {
 }
 
 /* Chegou a hora de se desafiar com a responsividade, 
